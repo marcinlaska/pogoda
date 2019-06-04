@@ -11,6 +11,7 @@ Wyświetla prognozę pogody dla bieżącej lokalizacji lub wyszukanego miasta.
 ## Instalacja
 
 Pobierz całe repozytorium, najlepiej do osobnego folderu. W plikach repozytorium nie powinno się niczego ruszać - wyjątkiem jest katalog `php`, który może zostać przeniesiony w dowolne inne miejsce. Wszystko inne powinno pozostać na swoim miejscu.
+W głównym katalogu projektu należy następnie wywołać komendę `npm install`, by zainstalować potrzebne pakiety.
 
 ## Uruchomienie
 
